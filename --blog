@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "name": "Rich Blog Library API",
+    "version": "2.0.0",
+    "total": 200,
+    "generated_at": "2026-05-01T00:00:00.000Z",
+    "categories": [
+      "Business",
+      "Culture",
+      "Design",
+      "Education",
+      "Environment",
+      "Health",
+      "Lifestyle",
+      "Programming",
+      "Science",
+      "Technology",
+      "Travel"
+    ],
+    "topics": [
+      "Artificial Intelligence",
+      "Backend APIs",
+      "Biology",
+      "Career Skills",
+      "Climate Science",
+      "Cloud Computing",
+      "Cybersecurity",
+      "Daily Habits",
+      "Digital Culture",
+      "Finance",
+      "JavaScript",
+      "Mental Health",
+      "Nutrition",
+      "Online Learning",
+      "Product Design",
+      "Renewable Energy",
+      "Smart Travel",
+      "Space Research",
+      "Startups",
+      "Sustainability",
+      "User Experience"
+    ],
+    "authors": [
+      "Alex Rivers",
+      "Jordan Smith",
+      "Casey Chen",
+      "S. Varma",
+      "Amina Patel",
+      "Priya Nair",
+      "Marcus Lee",
+      "Elena Brooks",
+      "Omar Khan",
+      "Maya Stone",
+      "Ravi Mehta",
+      "Lila Gomez"
+    ]
+  },
+  "blogs": [
+    {
+      "id": "b-001",
+      "title": "Mastering Edge Computing in 2026",
+      "slug": "mastering-edge-computing-in-2026",
+      "author": {
+        "name": "Alex Rivers",
+        "role": "Systems Architect"
+      },
+      "published_at": "2026-05-01T09:00:00.000Z",
+      "category": "Technology",
+      "topic": "Cloud Computing",
+      "tags": [
+        "Architecture",
+        "Latency",
+        "Cloud"
+      ],
+      "summary": "Why processing data closer to the source is becoming the standard for modern distributed applications.",
+      "content": "Edge computing moves important processing closer to users, devices, and sensors. The practical value comes from lower latency, better reliability, and a cleaner split between local decisions and central coordination. Teams that plan observability, deployment, and security early are in a stronger position to scale it.",
+      "stats": {
+        "views": 2100,
+        "likes": 145,
+        "read_time": 7
+      }
+    },
+    {
+      "id": "b-002",
+      "title": "Minimalist Web Design: Less is More",
+      "slug": "minimalist-web-design-less-is-more",
+      "author": {
+        "name": "Jordan Smith",
+        "role": "UI/UX Designer"
+      },
+      "published_at": "2026-04-25T14:30:00.000Z",
+      "category": "Design",
+      "topic": "User Experience",
+      "tags": [
+        "UX",
+        "Minimalism",
+        "Frontend"
+      ],
+      "summary": "Exploring the balance between negative space and functional clarity in modern web interfaces.",
+      "content": "Minimalism works when every visible element earns its place. The goal is not empty space for its own sake, but a calmer path through decisions, content, and actions. Clear hierarchy, generous spacing, and strong interaction states make simple interfaces feel complete.",
+      "stats": {
+        "views": 4500,
+        "likes": 890,
+        "read_time": 5
+      }
+    },
+    {
+      "id": "b-003",
+      "title": "The Art of Slow Drip Coffee",
+      "slug": "the-art-of-slow-drip-coffee",
+      "author": {
+        "name": "Casey Chen",
+        "role": "Lifestyle Writer"
+      },
+      "published_at": "2026-04-20T07:15:00.000Z",
+      "category": "Lifestyle",
+      "topic": "Daily Habits",
+      "tags": [
+        "Coffee",
+        "Morning Routine",
+        "Hobbies"
+      ],
+      "summary": "A beginner guide to the patience and precision required for the perfect morning pour-over.",
+      "content": "The ritual of the pour-over is as much about attention as caffeine. Grind size, water temperature, and timing all shape the cup, but the quiet value is the repeatable routine. Small adjustments turn an ordinary morning habit into a craft that keeps improving.",
+      "stats": {
+        "views": 1200,
+        "likes": 310,
+        "read_time": 4
+      }
+    },
+    {
+      "id": "b-004",
+      "title":
